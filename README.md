@@ -1,4 +1,4 @@
-# Walmart Sales Data Visualization Dashboard
+<img width="1400" alt="image" src="https://github.com/WangHui-in/Dashboard-/assets/168988154/8503bf86-0f93-42ba-a8c8-ac6458bd2831"># Walmart Sales Data Visualization Dashboard
 
 This repository contains a data visualization dashboard for Walmart sales data using Dash and Plotly. The purpose of this project is to document my learning journey, showcase completed projects, and share insights. The documentation will be continuously updated with new findings and improvements.
 
@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-Once the app is running, you can access the dashboard by navigating to `http://127.0.0.1:8051`（maybe change） in your web browser. The dashboard includes various interactive elements such as sliders and dropdowns to help you explore the data in detail.
+Once the app is running, you can access the dashboard by navigating to `[http://127.0.0.1:8051/]`in your web browser. The dashboard includes various interactive elements such as sliders and dropdowns to help you explore the data in detail.
 
 ## File Structure
 
@@ -44,28 +44,6 @@ Once the app is running, you can access the dashboard by navigating to `http://1
 - `data/`: Directory containing the dataset files (`Products.csv` and `Sales.csv`).
 - `assets/`: Directory for additional assets such as custom CSS.
 - `requirements.txt`: File listing the required Python packages.
-
-## Example Visualizations
-
-### Top 5 Selling Products
-
-![Top Selling Products](path/to/lollipop_chart.png)
-
-### Price Distribution
-
-![Price Distribution](path/to/histogram.png)
-
-### Monthly Sales, Turnover, and Profit Trends
-
-![Monthly Trends](path/to/monthly_trends.png)
-
-### Profit Distribution per Supplier
-
-![Supplier Performance](path/to/supplier_performance.png)
-
-### Product Profit and Quantity Sold
-
-![Product Profit Analysis](path/to/bubble_chart.png)
 
 ## Contributing
 
